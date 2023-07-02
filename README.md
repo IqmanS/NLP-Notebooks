@@ -1,2 +1,4 @@
 # NLP Notebooks
-<img src = "https://raw.githubusercontent.com/IqmanS/NLP-Notebooks/main/NLP-Banner.jpg?token=GHSAT0AAAAAAB77JULXCEBCSKZ4UDDK72BCZFBFBLA">
+<a href="https://www.kaggle.com/iqmansingh">
+<img src = "https://cdn.discordapp.com/attachments/1111599839663370271/1124998618529681428/NLP-Banner.jpg">
+</a>
